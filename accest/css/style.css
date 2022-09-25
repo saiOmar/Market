@@ -1,0 +1,109 @@
+.head1{
+    width:100% ;
+    height: 5vh;
+    font-size: 15px;
+    background-color: #333333;
+
+    color: #777777 !important;
+  
+}
+.head1 a{
+    color: #777777 !important;
+
+}
+.head1 .lite {
+   background-color: #00c8c8;
+   color: #fff !important;
+}
+.head1 .szie-lest {
+     
+    width: 300px;
+  
+
+}
+
+.head2{
+    width: 100%;
+    height: 10vh;
+
+}
+.m1{
+    width: 100%;
+    height: 40vh;
+    background: url(../imge/container.png) no-repeat;
+    background-size: cover;
+}
+.coment .butt{
+    margin-top: 50px;
+}
+ 
+.coment .butt button{
+
+    border: 1px solid #000;
+    width: 280px;
+    margin-right: 20px;
+    border-radius: 0;
+    transition: 0.5s;
+   
+   
+    
+}
+.coment .butt button:hover{
+    background-color: #000;
+    color: #fff;
+    width: 230px;
+}
+
+.head3 button {
+    border-radius: 0 !important;
+    color: #000;
+
+}
+
+ .carso  .carousel-control-prev-icon:hover{
+    background-color: #00c8c8;
+ }
+ .carso  .carousel-control-next-icon:hover{
+
+    background-color: #00c8c8;
+
+ }
+ .nav-pills .nav-link.active, .nav-pills .show>.nav-link{
+    background-color: #000;
+    color: #fff;
+ }
+
+ .head2 .bi-search:hover{
+    background-color: #00c8c8;
+    color: #fff;
+    padding: 8PX;
+    border-radius: 15PX;
+    transition: 0.5S;
+ }
+ .coment .p-c{
+    font-size: 50px;
+    color: #777777;
+    margin-top: 40px;
+
+ }
+ .coment .p-c del{
+    margin-right: 20px;
+ }
+ .coment .cloo{
+    color: aqua;
+ }
+ .coment .f1{
+    display: flex;
+    gap: 100px;
+    margin-top: 80px;
+ }
+
+ .coment .f1 select{
+    width: 200px ;
+    height: 30px;
+    color: #777777;
+ }
+ .coment  .s2 input{
+    width: 50px !important;
+ }
+ 
